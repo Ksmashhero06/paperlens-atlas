@@ -1,0 +1,8 @@
+{
+  "name": "PaperLens Atlas",
+  "description": "PaperLens is an AI research assistant that helps students and academics understand papers, extract methodology, and ask grounded questions.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
